@@ -1,0 +1,10 @@
+
+for i=1to49do
+b1
+end loop
+for i=50to59do
+b2
+end loop
+for i=60to100do
+b3
+end loop

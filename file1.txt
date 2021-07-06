@@ -1,0 +1,6 @@
+for i = 1 to 100 do
+
+if 1 <= i < 50 then b1
+if 50 <= i <= 60 then b2
+
+else b3
